@@ -47,8 +47,8 @@ Generar fichero de lugares turísticos 	|          Obtener data de las consultas
 
 Temas de integración	   |         Repositorio GIT	                                   	|       Jose manuel
 
-Diseño de pantallas	       |       Usar estilos de BootStrap y controles de JQuery	       	|       Pablo Mena
+Diseño de pantallas	   |       Usar estilos de BootStrap y controles de JQuery	       	|       Pablo David Mena Medrano
 
-Localizacion en mapas	   |         HTML5 y googleMaps	                                   	|       Pablo Mena		
+Localizacion en mapas	   |         HTML5 y googleMaps	                                   	|       Pablo David Mena Medrano
 
 		
