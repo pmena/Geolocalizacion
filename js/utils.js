@@ -1,6 +1,8 @@
-
 /**
+ * 
  * Obtiene la posición utilizando html5
+ * @author Pablo David Mena Medrano 
+ * 
  */
 function obtenerUbicacion() {    
     if (navigator.geolocation) {         
